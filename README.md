@@ -1,1 +1,4 @@
-# Gourmet_Plantilla
+# Gourmet Plantilla
+
+Plantilla en HTML, CSS, JavaScript.
+Editable.
